@@ -1,4 +1,4 @@
-#!C:\wamp64\bin\perl\bin\perl.exe
+#!/usr/bin/perl
 # Author: u6jo
 # CGI Perl script: Code Analysis
 use CGI qw(-utf-8 :all *table);
